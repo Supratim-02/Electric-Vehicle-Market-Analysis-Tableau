@@ -203,21 +203,6 @@ EV-Market-Analysis-Tableau/
 └── README.md                              # This file
 ```
 
----
-
-## 🚀 How to Open the Dashboard
-
-1. **Install Tableau Desktop** (version 2025.3.2 or later recommended).
-2. Place `Electric_Vehicle_Population_Data.csv` in the following path or update the data source connection:
-   ```
-   E:/Weskitters/Projects/Tableau_Project/EV/Electric_Vehicle_Population_Data.csv
-   ```
-   > ⚠️ If your CSV is stored elsewhere, open `EV_Dashboard.twb` in Tableau, go to **Data > Edit Data Source**, and point the connection to your local copy of the CSV.
-3. Open `EV_Dashboard.twb` in Tableau Desktop.
-4. Navigate to **Dashboard 1** in the bottom tab bar.
-5. Use the **interactive filters** (State, EV Type, Model, CAFV Eligibility) and the **Top N parameter** to explore the data.
-
----
 
 ## ✅ Recommendations
 
